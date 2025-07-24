@@ -97,7 +97,7 @@ wrapper.appendChild(createSection("projects", "Projects", `
 wrapper.appendChild(createSection("education", "Education", `
   <h3>Belgium Campus ITversity</h3>
   <p><strong>Bachelor of Computing - Software Engineering</strong></p>
-  <p>Graduating 2027</p>
+  <p>Expected Graduation 2026</p>
 
   <h3>CTU Training Solutions</h3>
   <p><strong>Software Development Fundamentals</strong></p>
