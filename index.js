@@ -108,7 +108,7 @@ wrapper.appendChild(createSection("education", "Education", `
 wrapper.appendChild(createSection("contact", "Contact", `
   <p>Email: <a href="mailto:mattys1908@gmail.com">mattys1908@gmail.com</a></p>
   <p>Phone: 079 693 3776</p>
-  <p>Website: Coming soon</p>
+  <p>linkedin: <a href="https://www.linkedin.com/in/matthew-smith-1bb42b26b/"> Matthew Smith </p>
 `));
 
 // === THEME TOGGLE ===
